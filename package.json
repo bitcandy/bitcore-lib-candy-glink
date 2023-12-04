@@ -1,5 +1,5 @@
 {
-  "name": "bitcore-lib-cash",
+  "name": "bitcore-lib-candy",
   "version": "0.20.0",
   "description": "A pure and powerful JavaScript Bitcoin Cash library.",
   "author": "BitPay <dev@bitpay.com>",
@@ -28,7 +28,8 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore-lib/tree/cash"
+    "url": "https://github.com/bitcandy/bitcore-lib-candy",
+    "_url": "https://github.com/bitpay/bitcore-lib/tree/cash"
   },
   "browser": {
     "request": "browser-request"
